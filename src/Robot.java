@@ -62,7 +62,7 @@ public class Robot {
     }
 
     /**
-     * This method prints the robot name color and weight
+     * This method print the robot name with color and weight
      */
     public void diaplayInfo(){
         System.out.println(this.name + "'s color is " + this.color +" and weight is "+ this.weight);
